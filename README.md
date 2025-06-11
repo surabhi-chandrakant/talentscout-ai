@@ -14,7 +14,7 @@ A sophisticated AI-powered hiring assistant built with Streamlit that streamline
 
 ## 🚀 Live Demo
 
-Try the application live on Hugging Face Spaces: [TalentScout AI Assistant](https://huggingface.co/spaces/YOUR_USERNAME/talentscout-ai)
+Try the application live on Hugging Face Spaces: [TalentScout AI Assistant](https://huggingface.co/spaces/surabhic/talentscout-ai)
 
 ## 📋 How It Works
 
