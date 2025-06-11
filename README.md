@@ -45,7 +45,7 @@ The application follows a structured screening process:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/talentscout-ai.git
+   git clone https://github.com/surabhi-chandrakant/talentscout-ai.git
    cd talentscout-ai
    ```
 
