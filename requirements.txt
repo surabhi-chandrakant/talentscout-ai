@@ -1,0 +1,12 @@
+streamlit>=1.28.0
+openai>=1.3.0
+python-dotenv>=1.0.0
+dataclasses>=0.6
+typing>=3.7.4
+datetime
+json5>=0.9.0
+re
+streamlit>=1.28.0
+openai>=1.0.0
+dataclasses-json>=0.6.0
+python-dateutil>=2.8.2
